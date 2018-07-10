@@ -1,0 +1,2 @@
+# Vehicle-Tracker
+This project aims to build a small device to track down vehicles breaking traffic rules.   It keeps a check over speed and positioning of vehicles, then gets the number of the vehicle by clicking picture of its number plate using camera attached, if found rule breaking, sending it to the concerned authorities to take further actions according to the laws of that country. It consists of Raspberry Pi 3, Camera, Sensors: Ultrasonic (HC-SR04),accelerometer(ADXL345 ), GSM. Python is the programming language used.
